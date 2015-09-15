@@ -2,7 +2,7 @@
 
 This is for reporting bugs in the TC Custom Modpack.
 
-Below you can find some helpfull links.
+Below you can find some helpful links.
 
 [Technomancers Collective Website](http://techno-c.net)
 
