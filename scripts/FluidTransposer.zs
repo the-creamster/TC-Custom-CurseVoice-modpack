@@ -1,0 +1,1 @@
+mods.thermalexpansion.Transposer.removeFillRecipe(<SolarFlux:solarCell2>, <liquid:glowstone>);
