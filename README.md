@@ -1,4 +1,9 @@
-# TC-Custom-CurseVoice-modpack
-This github is for the maintainence, bug reporting and various other things related to the TC custom modpack on CurseVoice client
+# Technomancers Collective Custom Modpack
 
-Custom Oregen google doc: https://docs.google.com/spreadsheets/d/1kObbn1TfEH3JaNssHtr6-i_9Khfvniiu1ib45gcqqw0/
+This is for reporting bugs in the TC Custom Modpack.
+
+Below you cvan find some helpfull links.
+
+[Technomancers Collective Website](http://techno-c.net)
+
+[Custom Oregen google doc](https://docs.google.com/spreadsheets/d/1kObbn1TfEH3JaNssHtr6-i_9Khfvniiu1ib45gcqqw0/)
