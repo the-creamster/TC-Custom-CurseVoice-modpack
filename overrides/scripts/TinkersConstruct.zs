@@ -77,6 +77,68 @@ mods.tconstruct.Casting.addBasinRecipe(<ThermalExpansion:Rockwool:13>, <liquid:s
 mods.tconstruct.Casting.addBasinRecipe(<ThermalExpansion:Rockwool:14>, <liquid:stone.seared> * 144, <minecraft:wool:14>, true, 120);
 mods.tconstruct.Casting.addBasinRecipe(<ThermalExpansion:Rockwool:15>, <liquid:stone.seared> * 144, <minecraft:wool:15>, true, 120);
 
+## Dark Steel
+// pickaxe head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:pickaxeHead:171>, <liquid:darksteel> * 144, <TConstruct:metalPattern:2>, false, 120);
+// tool rod
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:toolrod:171>, <liquid:darksteel> * 72, <TConstruct:metalPattern:1>, false, 120);
+// shovel head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:shovelHead:171>, <liquid:darksteel> * 144, <TConstruct:metalPattern:3>, false, 120);
+// axe head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:axeHead:171>, <liquid:darksteel> * 144, <TConstruct:metalPattern:4>, false, 120);
+// sword blade
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:swordBlade:171>, <liquid:darksteel> * 144, <TConstruct:metalPattern:5>, false, 120);
+// wide guard
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:largeGuard:171>, <liquid:darksteel> * 72, <TConstruct:metalPattern:6>, false, 120);
+// hand guard
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:mediumGuard:171>, <liquid:darksteel> * 72, <TConstruct:metalPattern:7>, false, 120);
+// crossbar
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:crossbar:171>, <liquid:darksteel> * 72, <TConstruct:metalPattern:8>, false, 120);
+// tool binding
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:binding:171>, <liquid:darksteel> * 72, <TConstruct:metalPattern:9>, false, 120);
+// pan head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:frypanHead:171>, <liquid:darksteel> * 144, <TConstruct:metalPattern:10>, false, 120);
+// battle sign
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:battelSign:171>, <liquid:darksteel> * 144, <TConstruct:metalPattern:11>, false, 120);
+// knife blade
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:knifeBlade:171>, <liquid:darksteel> * 72, <TConstruct:metalPattern:12>, false, 120);
+// chisel head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:chiselHead:171>, <liquid:darksteel> * 72, <TConstruct:metalPattern:13>, false, 120);
+// tough rod
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:toughrod:171>, <liquid:darksteel> * 432, <TConstruct:metalPattern:14>, false, 120);
+// tough binding
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:toughbind:171>, <liquid:darksteel> * 432, <TConstruct:metalPattern:15>, false, 120);
+// large plate
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:largeplate:171>, <liquid:darksteel> * 1152, <TConstruct:metalPattern:16>, false, 120);
+// lumber axe head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:lumberaxeHead:171>, <liquid:darksteel> * 1152, <TConstruct:metalPattern:17>, false, 120);
+// scythe head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:scytheHead:171>, <liquid:darksteel> * 1152, <TConstruct:metalPattern:18>, false, 120);
+// excavator head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:excavatorHead:171>, <liquid:darksteel> * 1152, <TConstruct:metalPattern:19>, false, 120);
+// large sword blade
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:largeSwordBlade:171>, <liquid:darksteel> * 1152, <TConstruct:metalPattern:20>, false, 120);
+// hammer head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:hammerHead:171>, <liquid:darksteel> * 1152, <TConstruct:metalPattern:21>, false, 120);
+// full guard
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:fullGuard:171>, <liquid:darksteel> * 432, <TConstruct:metalPattern:22>, false, 120);
+// arrow head
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:arrowhead:171>, <liquid:darksteel> * 144, <TConstruct:metalPattern:25>, false, 120);
+// shuriken
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:shuriken:171>, <liquid:darksteel> * 72, <TConstruct:cast>, false, 120);
+// crossbow limb
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:CrossbowLimb:171>, <liquid:darksteel> * 576, <TConstruct:cast:1>, false, 120);
+// crossbow body
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:CrossbowBody:171>, <liquid:darksteel> * 720, <TConstruct:cast:2>, false, 120);
+// bow limb
+mods.tconstruct.Casting.addTableRecipe(<ExtraTiC:BowLimb:171>, <liquid:darksteel> * 216, <TConstruct:cast:3>, false, 120);
+
+## Yellorium
+mods.tconstruct.Casting.removeTableRecipe(<BigReactors:BRIngot>);
+mods.tconstruct.Casting.removeBasinRecipe(<BigReactors:BRMetalBlock>);
+mods.tconstruct.Casting.addTableRecipe(<BigReactors:BRIngot>, <liquid:yellorium> * 144, <TConstruct:metalPattern>, false, 120);
+mods.tconstruct.Casting.addBasinRecipe(<BigReactors:BRMetalBlock>, <liquid:yellorium> * 1296, null, false, 120);
+
 ## Obsidian Increased Temp
 mods.tconstruct.Smeltery.removeMelting(<TConstruct:decoration.multibrickfancy>);
 mods.tconstruct.Smeltery.removeMelting(<TConstruct:toolRod:6>);
