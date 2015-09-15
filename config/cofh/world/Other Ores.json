@@ -1,0 +1,470 @@
+{
+    "primary_aluminium": {
+        "template": "normal",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 6,
+        "numClusters": 6,
+        "meanHeight": 40,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "secondary_aluminium": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 3,
+        "numClusters": 3,
+        "minHeight": 4,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "cobalt": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 1},
+        "material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            {"type": "dictionary", "entry": "hell"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "ardite": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 2},
+        "material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            {"type": "dictionary", "entry": "hell"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "ruby": {
+        "template": "uniform",
+        "block": {"name": "bluepower:ruby_ore"},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "sapphire": {
+        "template": "uniform",
+        "block": {"name": "bluepower:sapphire_ore"},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "amethyst": {
+        "template": "uniform",
+        "block": {"name": "bluepower:amethyst_ore"},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "tungsten": {
+        "template": "uniform",
+        "block": {"name": "bluepower:tungsten_ore"},
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 4,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "teslatite": {
+        "template": "uniform",
+        "block": {"name": "bluepower:teslatite_ore"},
+        "clusterSize": 8,
+        "numClusters": 6,
+        "minHeight": 4,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "monazit": {
+        "template": "uniform",
+        "block": {"name": "ModularForcefieldSystem:tile.monazitOre"},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "certus quartz": {
+        "template": "uniform",
+        "block": {"name": "appliedenergistics2:tile.OreQuartz"},
+        "clusterSize": 4,
+        "numClusters": 6,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "charged certus quartz": {
+        "template": "uniform",
+        "block": {"name": "appliedenergistics2:tile.OreQuartzCharged"},
+        "clusterSize": 2,
+        "numClusters": 3,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "apatite": {
+        "template": "uniform",
+        "block": {"name": "Forestry:resources"},
+        "clusterSize": 32,
+        "numClusters": 6,
+        "minHeight": 80,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "cinibar": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 0},
+        "clusterSize": 2,
+        "numClusters": 12,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "amber": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 7},
+        "clusterSize": 6,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "air infused stone": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 1},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "fire infused stone": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 2},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "water infused stone": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 3},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "earth infused stone": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 4},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "order infused stone": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 5},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "perditio infused stone": {
+        "template": "uniform",
+        "block": {"name": "Thaumcraft:blockCustomOre", "metadata": 6},
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 4,
+        "maxHeight": 80,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "zinc": {
+        "template": "uniform",
+        "block": {"name": "bluepower:zinc_ore"},
+        "clusterSize": 6,
+        "numClusters": 6,
+        "minHeight": 4,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "salt": {
+        "template": "uniform",
+        "block": {"name": "harvestcraft:salt"},
+        "clusterSize": 2,
+        "numClusters": 8,
+        "minHeight": 4,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "sulfur": {
+        "template": "uniform",
+        "block": {"name": "Railcraft:ore", "metadata": 0},
+        "clusterSize": 3,
+        "numClusters": 2,
+        "minHeight": 4,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "saltpeter": {
+        "template": "uniform",
+        "block": {"name": "Railcraft:ore", "metadata": 1},
+        "clusterSize": 4,
+        "numClusters": 3,
+        "minHeight": 4,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "yellorite": {
+        "template": "uniform",
+        "block": {"name": "BigReactors:YelloriteOre"},
+        "clusterSize": 4,
+        "numClusters": 14,
+        "minHeight": 4,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
