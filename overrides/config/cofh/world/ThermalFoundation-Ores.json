@@ -73,9 +73,7 @@
     },
     "primary_silver": {
         "template": "normal",
-        "block": [
-            {"name": "ThermalFoundation:Ore", "metadata": 2},
-        ],
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 2},
         "clusterSize": 6,
         "numClusters": 4,
         "meanHeight": 20,
@@ -93,9 +91,7 @@
     },
     "secondary_silver": {
         "template": "uniform",
-        "block": [
-            {"name": "ThermalFoundation:Ore", "metadata": 2},
-        ],
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 2},
         "clusterSize": 3,
         "numClusters": 2,
         "minHeight": 4,
@@ -113,9 +109,7 @@
     },
     "primary_lead": {
         "template": "normal",
-        "block": [
-            {"name": "ThermalFoundation:Ore", "metadata": 3},
-        ],
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 3},
         "clusterSize": 6,
         "numClusters": 6,
         "meanHeight": 20,
@@ -133,9 +127,7 @@
     },
     "secondary_lead": {
         "template": "uniform",
-        "block": [
-            {"name": "ThermalFoundation:Ore", "metadata": 3},
-        ],
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 3},
         "clusterSize": 3,
         "numClusters": 3,
         "minHeight": 4,
