@@ -1,3 +1,19 @@
+Ever thought playing survival with a 150+ mod modpack was too easy once you were well enough equipped? Then this modpack is for you. With
+the perfectly refined additions of Iguana Tweaks, Special AI, MineTweaker 3 & The spice of Life making mobs both passive and hostile "different than normal";
+requiring atleast 12 different food items and a longer tool progression tree with vanilla ones being useless apart from crafting (except shears).
+While Minetweaker 3 changes recipes from the default to something more "realistic" in perspective of the pack making things "harder".
+
+This 171 mod modpack is a challenge worthy of co-op atleast just to "survive" the first 7 ingame days without starving or dying and not
+being able to retrieve your precious items. This pack is a balanced magic/tech pack which will give you a well rounded "different" experience
+to the normal large modpacks that are out there. If you're interested in joining us and playing on the Australian hosted server you can apply
+on our website.
+
+If you have any issues please refer to the github.
+
+Extra Information:
+Website: http://techno-c.net/
+Github: https://github.com/the-creamster/TC-Custom-CurseVoice-modpack
+
 Modlist:
 - Agricraft
 - Another One Bites The Dust(AOBD2)
@@ -7,8 +23,7 @@ Modlist:
 - Back Tools
 - Baubles
 - BdLib
-- Bibliocraft
-- BibliCraft: BiblioWoods Forestry, Highlands & Natura Editions
+- Bibliocraft (including Forestry, Highlands & Natura Editions)
 - Big Reactors
 - Binnie's Mods
 - Blood Magic
